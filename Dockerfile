@@ -34,6 +34,7 @@ RUN set -x && apt-get update && apt-get --yes --no-install-recommends install \
     rsync \
     sed \
     socat \
+    tcpdump \
     telnet \
     tftp \
     traceroute \
